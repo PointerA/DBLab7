@@ -207,7 +207,7 @@ labpy文件夹中存储的是后端代码
 
 ### 1、运行代码
 
-前端代码运行![](picture\1.png)
+前端代码运行![](picture\1.png?raw=true)
 
 后端代码![](\picture\2.png)
 
