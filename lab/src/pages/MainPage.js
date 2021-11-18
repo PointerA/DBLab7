@@ -1,5 +1,5 @@
 import React from 'react';
-import { Center, Button, Box,Stack } from '@chakra-ui/react';
+import { Center, Box,Stack,Text } from '@chakra-ui/react';
 import { Radio, RadioGroup } from "@chakra-ui/react"
 import { QFirst } from './QFirst';
 import { QSec } from './QSec';
@@ -7,7 +7,9 @@ import { QSec } from './QSec';
 export function MainPage() {
     const [value, setValue] = React.useState("1")
     return (
+        
         <Box height="100vh" width="100vw" >
+          <Text>19334019 代码已传GitHub，敬请批评指正</Text>
             <Center>
             <Box position="absolute" top="5%">
             <Stack direction="column"spacing={8}>
